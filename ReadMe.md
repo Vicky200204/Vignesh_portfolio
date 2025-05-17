@@ -17,21 +17,6 @@ This portfolio contains some of my best projects, showcasing my skills in data a
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Executive Dashboard - Avineon India Pvt Ltd](link-to-repo)
-A multi-tabbed Shiny for Python dashboard for visualizing project hours, team attendance, and employee metrics using SQL Server stored procedures and Plotly charts.
-
-### 🔹 [Credit Score Classification](link-to-repo)
-A machine learning model trained on behavioral features to classify customer credit scores and recommend financial strategies.
-
-### 🔹 [UKPN Dashboard with Secure Login](link-to-repo)
-Enterprise-grade dashboard with full login functionality and dynamic query resolution using SQL stored procedures.
-
-### 🔹 [Job AI Agent (Auto Apply Bot)](link-to-repo)
-A Selenium-based automation bot powered by a local LLM to analyze resumes, find jobs from Naukri.com, and auto-apply with minimal manual effort.
-
----
 
 ## 📈 Learning Goals
 
@@ -44,9 +29,8 @@ A Selenium-based automation bot powered by a local LLM to analyze resumes, find 
 
 ## 📬 Let's Connect!
 
-- **LinkedIn**: [linkedin.com/in/vigneshkumar](#)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/vicky](https://github.com/vicky)
+- **LinkedIn**: [linkedin.com/in/vigneshkuma](https://www.linkedin.com/in/vigneshkumar-d-48712b286/)
+- **Email**: [vigneshkumard0412@gmail.com](mailto:vigneshkumard0412@gmail.com)
 
 ---
 
